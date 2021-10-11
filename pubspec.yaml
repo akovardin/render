@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   path_provider: ^2.0.5
   google_fonts: ^2.1.0
+  bot_toast: ^4.0.1
 
 dev_dependencies:
   flutter_test:
@@ -60,7 +61,10 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/
+    - assets/images/rendering/
+    - assets/images/linking/
+    - assets/images/coloring/
+    - assets/images/hermitage/
 
   # To add assets to your application, add an assets section, like this:
   # assets:
